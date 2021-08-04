@@ -1,7 +1,6 @@
 <template>
   <div>
-    <p>appVue</p>
-    <router-view />
+    <p>maintest.vue</p>
   </div>
 </template>
 
